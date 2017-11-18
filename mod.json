@@ -1,0 +1,6 @@
+{
+  "name": "ctrip-order-notice",
+  "version": "0.0.1",
+  "apiDependencies": ["info-ext"]
+}
+
